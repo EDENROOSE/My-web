@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Votagz Workplace'
 description: 'Hi! I am votagz'
 permalink: pretty
-logo: "https://imgur.com/sA3o0zb.png"
+logo: "https://imgur.com/9uYhNcO"
 
 # Pagination
 paginate: 5
@@ -54,7 +54,7 @@ collections:
     description: "My thoughts..."
     feature_text: |
       Welcome to my blog
-    feature_image: "https://imgur.com/ZdE5RLB"
+    feature_image: "https://imgur.com/IxEQz11"
 
 # Collection settings
 defaults:
